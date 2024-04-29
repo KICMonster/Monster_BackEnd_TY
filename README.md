@@ -1,10 +1,10 @@
 # Monster_Main
  
  
-[Main] (https://github.com/KICMonster/Monster_Main)
-[태연] (https://github.com/KICMonster/Monster_BackEnd_TY)
-[동준]
-[명준]
-[은영]
-[해랑]
-[현민]
+[Main] (https://github.com/KICMonster/Monster_Main)<br>
+[태연] (https://github.com/KICMonster/Monster_BackEnd_TY)<br>
+[동준]<br>
+[명준]<br>
+[은영]<br>
+[해랑]<br>
+[현민]<br>
